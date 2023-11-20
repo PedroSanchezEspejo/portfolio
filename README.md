@@ -8,6 +8,7 @@
 
 ### Proyectos
 - Proyecto agregaciones
+[](agregaciones/img/4_1.png)
 
 - Proyecto 2
 
