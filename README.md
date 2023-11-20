@@ -1,4 +1,4 @@
-# portfolio Pedro Sanchez
+# Portfolio
 
 # Científico de datos / Analista de datos
 ### Certificaciones y cursos
@@ -7,7 +7,8 @@
 - Empresa 2
 
 ### Proyectos
-- Proyecto 1
+- Proyecto agregaciones
+
 - Proyecto 2
 
   
