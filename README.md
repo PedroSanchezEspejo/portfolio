@@ -7,7 +7,7 @@
 - Empresa 2
 
 ### Proyectos
-- Agregaciones con Pandas utilizando Jupyter Notebook
+- [Agregaciones](agregaciones/notebooks/Aggregations.ipynb) con Pandas utilizando Jupyter Notebook
 ![1](agregaciones/img/4_1.png)
 
 - Proyecto 2
