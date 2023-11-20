@@ -7,8 +7,8 @@
 - Empresa 2
 
 ### Proyectos
-- Proyecto agregaciones
-[](agregaciones/img/4_1.png)
+- Agregaciones con Pandas utilizando Jupyter Notebook
+[1](agregaciones/img/4_1.png)
 
 - Proyecto 2
 
