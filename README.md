@@ -8,7 +8,7 @@
 
 ### Proyectos
 - Agregaciones con Pandas utilizando Jupyter Notebook
-[1](agregaciones/img/4_1.png)
+![1](agregaciones/img/4_1.png)
 
 - Proyecto 2
 
